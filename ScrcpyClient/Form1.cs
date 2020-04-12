@@ -50,7 +50,6 @@ namespace ScrcpyClient
                 //}
                 Console.WriteLine("exit");
                 this.BeginInvoke((Action)(() => {
-
                     button1.Enabled = true;
                 }), null);
             });

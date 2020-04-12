@@ -83,7 +83,6 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="H264SocketHelper.cs" />
     <Compile Include="H264SocketParser.cs" />
     <Compile Include="H264VideoStreamEncoder.cs" />
     <Compile Include="JT1078CodecForMp4.cs" />
